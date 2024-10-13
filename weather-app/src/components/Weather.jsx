@@ -34,27 +34,27 @@ const Weather = ({ weather, fetchWeather, handleLocation }) => {
             <div className="box">
                 <h5>Now</h5>
                 <img src={weatherIcon} alt="" className="imgIcon" />
-                <h6>°C</h6>
+                <h6>25°C</h6>
             </div>
             <div className="box">
                 <h5>11PM</h5>
                 <img src={weatherIcon} alt="" className="imgIcon" />
-                <h6>°C</h6>
+                <h6>25°C</h6>
             </div>
             <div className="box">
                 <h5>12PM</h5>
                 <img src={weatherIcon} alt="" className="imgIcon" />
-                <h6>°C</h6>
+                <h6>26°C</h6>
             </div>
             <div className="box">
                 <h5>1AM</h5>
                 <img src={weatherIcon} alt="" className="imgIcon" />
-                <h6>°C</h6>
+                <h6>26°C</h6>
             </div>
             <div className="box">
                 <h5>2AM</h5>
                 <img src={weatherIcon} alt="" className="imgIcon" />
-                <h6>°C</h6>
+                <h6>26°C</h6>
             </div>
         </div>
     </div>
