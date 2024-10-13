@@ -92,7 +92,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center; 
-    margin-top: 20px;
+    margin-top: 5rem;
     background: linear-gradient(to top, #040f2f, #597db5);
     border-radius: 10px;
 }
